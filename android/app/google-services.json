@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "744748924216",
+    "project_id": "borsaapp-d8f26",
+    "storage_bucket": "borsaapp-d8f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744748924216:android:2781ea0b1f8e438090d5cd",
+        "android_client_info": {
+          "package_name": "com.example.borsaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744748924216-bsshshdp94qjk6aeffo1km916ntmhsk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3OysXK0Pm-wvbCMS_1govGMWF9V_Ttvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744748924216-bsshshdp94qjk6aeffo1km916ntmhsk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744748924216:android:32e2194f5ad47aa790d5cd",
+        "android_client_info": {
+          "package_name": "com.example.mopasborsacebimde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744748924216-bsshshdp94qjk6aeffo1km916ntmhsk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3OysXK0Pm-wvbCMS_1govGMWF9V_Ttvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744748924216-bsshshdp94qjk6aeffo1km916ntmhsk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
